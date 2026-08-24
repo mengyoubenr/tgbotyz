@@ -1,5 +1,6 @@
 # tgbotyz
 使用cf works来实现tg的入群审核bot（即强制5秒盾的人机检测）
+tg群设置：拉bot给管理员权限+打开新成员入群审核
 
 创建 KV
 名字： TELEGRAM_VERIFY
