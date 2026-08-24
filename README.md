@@ -32,18 +32,32 @@ PS：如果你的域名做了waf安全规则，别忘记放行tg的asn（62041�
 
 
 这个版本包含：
+
 ✅ Telegram chat_join_request
+
 ✅ Telegram chat_member
+
 ✅ 用户退出后记录状态
+
 ✅ 再次申请必须重新 Turnstile
+
 ✅ KV 防重复验证
+
 ✅ Token 10 分钟过期
+
 ✅ 验证成功立即删除 Token
+
 ✅ IP 10 分钟最多 10 次
+
 ✅ Turnstile 服务端验证
+
 ✅ Telegram 自动批准入群
+
 ✅ 自动创建“需要管理员批准”的邀请链接
+
 ✅ /setup 自动设置 Webhook
+
 ✅ /invite 获取验证入群链接
+
 ✅ 不需要 VPS / Node.js / Wrangler
 
